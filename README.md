@@ -1,8 +1,9 @@
 A colaboration project on printf
 
-Project team:
+_Project team:_
 
-Main Author: Akinyuwa Victor Blessing Collaborator: Desmond Adjarho
+Main Author: Akinyuwa Victor Blessing
+Collaborator: Desmond Adjarho
 
 Synopsis
 
